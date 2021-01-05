@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83fa7ca0-1dcf-4f8e-a41a-ca951049d5e7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jCSoScDubuJboaic3n1D9581nr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/visualizations/images/clusters/2D" />
+      <recent name="$PROJECT_DIR$/visualizations/images/clusters/3D" />
+      <recent name="$PROJECT_DIR$/visualizations/images" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83fa7ca0-1dcf-4f8e-a41a-ca951049d5e7" name="Default Changelist" comment="" />
+      <created>1603306754807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603306754807</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="192" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608926354174">
+      <screen x="0" y="25" width="1680" height="938" />
+    </state>
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1603337102951" />
+    <state x="304" y="192" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.938@0.25.1680.938" timestamp="1608926354174" />
+    <state x="498" y="277" width="819" height="486" key="find.popup" timestamp="1609195964430">
+      <screen x="0" y="25" width="1680" height="938" />
+    </state>
+    <state x="498" y="282" width="819" height="486" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1604800736351" />
+    <state x="498" y="276" width="819" height="486" key="find.popup/0.23.1680.941@0.23.1680.941" timestamp="1604353080876" />
+    <state x="498" y="277" width="819" height="486" key="find.popup/0.25.1680.938@0.25.1680.938" timestamp="1609195964430" />
+  </component>
+</project>
